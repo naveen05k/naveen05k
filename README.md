@@ -40,6 +40,16 @@
 </p>
 
 ---
+### 📂 Notable Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **SpringBoot Blog API** | RESTful API with full CRUD, user authentication | Java, Spring Boot, MySQL, JWT |
+| **Student Management System** | Web app to manage students and courses | Java, Spring MVC, Hibernate |
+| **DSA Tracker** | Collection of solved DSA problems | Java, Git, Markdown |
+
+> *More projects available in pinned repositories.*
+
 
 ### 🔗 Let's Connect!
 
