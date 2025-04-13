@@ -1,32 +1,42 @@
-## 👋 Hey there! I'm [Your Name] — Backend Engineer | DevOps Learner 🚀
+## 👋 Hi there! I'm Naveenkumar D — Java Backend Developer 🚀
 
-🎯 Passionate about building scalable backend systems using **Java**, **Spring Boot**, and **MySQL**, with a growing interest in **DevOps** practices and automation.
-
----
-
-### 🔧 Tech Stack
-
-- 💻 **Backend**: Java, Spring Boot, REST APIs, Hibernate
-- 🛢️ **Database**: MySQL, PostgreSQL
-- 🐧 **Linux**: Bash, Shell scripting, server management
-- 🐳 **DevOps**: Docker, GitHub Actions, Jenkins (learning Terraform & AWS)
-- 🔧 **Tools**: Git, Postman, IntelliJ IDEA, VS Code
+🎯 I’m a backend engineer with hands-on experience in **Java**, **Spring Boot**, **REST APIs**, and **Hibernate**, and I enjoy solving problems through **Data Structures and Algorithms**. I'm passionate about writing clean, scalable code and building robust backend systems.
 
 ---
 
-### 📘 Currently Learning
+### 💻 Tech Stack
 
-- 🐳 Docker & containerization
-- ☁️ AWS for DevOps (EC2, S3, IAM, RDS, etc.)
-- 🔁 CI/CD with Jenkins & GitHub Actions
-- ⚙️ Infrastructure as Code with Terraform
+- 🔹 **Languages**: Java, SQL
+- 🔹 **Frameworks**: Spring Boot, Hibernate, JPA
+- 🔹 **APIs**: RESTful APIs, JSON
+- 🔹 **Database**: MySQL, PostgreSQL
+- 🔹 **Tools**: Git, Maven, Postman, IntelliJ, VS Code
+- 🔹 **Testing**: JUnit, Mockito
+- 🔹 **OS**: Linux (Ubuntu), Windows
+
+---
+
+### 📚 Computer Science Skills
+
+- ✅ Strong foundation in **Data Structures & Algorithms (DSA)**
+- ✅ Problem solving on platforms like LeetCode, HackerRank
+- ✅ OOP, Design Patterns, System Design Basics
+
+---
+
+### 🚀 Currently Exploring
+
+- 🐳 Docker & DevOps basics
+- ☁️ AWS (EC2, S3, IAM, RDS)
+- 🔁 CI/CD with Jenkins and GitHub Actions
+- ⚙️ Microservices with Spring Cloud
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
