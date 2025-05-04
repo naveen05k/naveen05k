@@ -7,7 +7,7 @@
 ### 💻 Tech Stack
 
 - 🔹 **Languages**: Java, SQL
-- 🔹 **Frameworks**: Spring Boot, Hibernate, JPA
+- 🔹 **Frameworks**: Spring Boot, Hibernate, Spring Data JPA,
 - 🔹 **APIs**: RESTful APIs, JSON
 - 🔹 **Database**: MySQL, PostgreSQL
 - 🔹 **Tools**: Git, Maven, Postman, IntelliJ, VS Code
